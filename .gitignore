@@ -152,15 +152,6 @@ Thumbs.db
 !LICENSE.txt
 !CONTRIBUTING.txt
 
-# Screenshots (keep structure but ignore actual files)
-screenshots/*.png
-screenshots/*.jpg
-screenshots/*.jpeg
-screenshots/*.gif
-screenshots/*.mp4
-screenshots/*.avi
-screenshots/*.mov
-
 # Keep screenshot directory structure
 !screenshots/
 !screenshots/README.md
